@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1541520388 source:c:\users\alumno-g\desktop\practica\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"Perro.h"
+
+1541521428 source:c:\users\alumno-g\desktop\practica\src\animal.cpp
+	"Animal.h"
+	"strings.h"
+
+1541521732 c:\users\alumno-g\desktop\practica\include\animal.h
+	<iostream>
+	"strings.h"
+
+1541521428 source:c:\users\alumno-g\desktop\practica\src\animalabs.cpp
+	"AnimalAbs.h"
+	<iostream>
+
+1541521295 c:\users\alumno-g\desktop\practica\include\animalabs.h
+	<iostream>
+	"strings.h"
+
+1541521277 source:c:\users\alumno-g\desktop\practica\src\animalarray.cpp
+	"AnimalArray.h"
+	"AnimalAbs.h"
+
+1541521451 c:\users\alumno-g\desktop\practica\include\animalarray.h
+	"AnimalAbs.h"
+
+1541521656 c:\users\alumno-g\desktop\practica\include\perro.h
+
+1541521368 source:c:\users\alumno-g\desktop\practica\src\perro.cpp
+	"Perro.h"
+
+1542075933 source:c:\users\usuario\desktop\practica lab daniel\main.cpp
+	"Animal.h"
+	"Perro.h"
+	"Gato.h"
+	"Loro.h"
+	"AnimalAbs.h"
+	"AnimalArray.h"
+	<iostream>
+	<string>
+
+1541688750 c:\users\usuario\desktop\practica lab daniel\include\animal.h
+	<string>
+	<iostream>
+
+1541687795 c:\users\usuario\desktop\practica lab daniel\include\perro.h
+	"Animal.h"
+
+1542071562 source:c:\users\usuario\desktop\practica lab daniel\src\animal.cpp
+	"Animal.h"
+	<string>
+	<iostream>
+
+1542075046 source:c:\users\usuario\desktop\practica lab daniel\src\animalabs.cpp
+	"AnimalAbs.h"
+	<iostream>
+
+1542075046 c:\users\usuario\desktop\practica lab daniel\include\animalabs.h
+	<iostream>
+	"strings.h"
+
+1542075648 source:c:\users\usuario\desktop\practica lab daniel\src\animalarray.cpp
+	"AnimalArray.h"
+	<iostream>
+
+1542074828 c:\users\usuario\desktop\practica lab daniel\include\animalarray.h
+	"AnimalAbs.h"
+
+1541688242 source:c:\users\usuario\desktop\practica lab daniel\src\perro.cpp
+	"Perro.h"
+
+1541688320 c:\users\usuario\desktop\practica lab daniel\include\gato.h
+	"Animal.h"
+
+1541687984 source:c:\users\usuario\desktop\practica lab daniel\src\gato.cpp
+	"Gato.h"
+
+1541688487 c:\users\usuario\desktop\practica lab daniel\include\loro.h
+	"Animal.h"
+
+1541688487 source:c:\users\usuario\desktop\practica lab daniel\src\loro.cpp
+	"Loro.h"
+
